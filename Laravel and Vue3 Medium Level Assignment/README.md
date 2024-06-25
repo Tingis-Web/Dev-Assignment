@@ -47,10 +47,10 @@ Example of a descriptive message to be displayed on the History page:
 
 ## Notes:
 
-   - Add a detailed README in the GitHub repository.
-   - Include instructions on how to set up and run the application using Docker.
-   - Document the API endpoints and their usage.
-   - Include setup instructions for the database and WebSocket server.
+* You can choose any design you like, as long as it is simple and clean.
+* The project must be submitted as a git repo with a detailed README file on how to set up the project so it can be tested without any issues.
+* There is some flexibility in how this can be approached, so we will pay close attention to how you handle exceptions, organize your code, and set up the initial project (seeders and documentation).
+
 
 ## Additional Notes:
 
