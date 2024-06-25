@@ -2,7 +2,11 @@
   <img src="../tw-logo.svg" alt="Tingis Web Logo" style="width:500px;">
 </p>
 
-### Project: Task Management Application
+### Assignment: Collaborative Note-Taking Application
+
+## Description:
+
+Welcome to the Collaborative Note-Taking Application assignment. Your task is to create a note-taking application that supports real-time collaboration, allowing multiple users to work on notes simultaneously. This assignment is designed to assess your advanced skills with the specified tech stack, your ability to implement complex features, and your attention to detail in documentation and testing.
 
 ## Requirements:
 

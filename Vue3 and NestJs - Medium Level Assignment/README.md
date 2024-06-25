@@ -2,7 +2,11 @@
   <img src="../tw-logo.svg" alt="Tingis Web Logo" style="width:500px;">
 </p>
 
-### Project: Task Management Application
+### Assignment: Task Management Application
+
+## Description:
+
+Welcome to the Task Management Application assignment. Your task is to create a simple task management application that allows users to manage their tasks efficiently. This assignment is designed to assess your proficiency with the specified tech stack and your ability to deliver a functional and well-documented application.
 
 ## Requirements:
 
