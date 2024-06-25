@@ -2,7 +2,7 @@
   <img src="../tw-logo.svg" alt="Tingis Web Logo" style="width:500px;">
 </p>
 
-### Assignment: Mini CRM Application
+### Assignment: CRM Application
 
 The purpose of this technical test is to give us an idea of how you interpret a technical problem and structure your code. The test is a mini CRM that connects a company with its employees. A company is created by an administrator, who can invite employees to join the company via email. After an employee joins, they can access and modify their data, as well as view their company's and colleagues' information. The application contains 2 spaces protected by an authentication layer:
 
