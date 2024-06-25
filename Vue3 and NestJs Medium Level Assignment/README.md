@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../tw-logo.png" class="sFlh5c pT0Scc" alt="Tingis Web Logo" style="max-width:501px;">
+  <img src="../tw-logo.svg" class="sFlh5c pT0Scc" alt="Tingis Web Logo" style="max-width:501px;">
 </p>
 
 ### Project: Task Management Application
