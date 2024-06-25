@@ -5,20 +5,20 @@
 ### Project: Mini CRM Application
 
 The purpose of this technical test is to give us an idea of how you interpret a technical problem and structure your code. The test is a mini CRM that connects a company with its employees. A company is created by an administrator, who can invite employees to join the company via email. After an employee joins, they can access and modify their data, as well as view their company's and colleagues' information. The application contains 2 spaces protected by an authentication layer:
-* Super-administrator space
+* Super Admin space
 * Employee space
 
-## Administrator Space:
+## Super Admin Space:
 
-* A super-administrator can log in to their space and create other administrators.
-* An administrator can create, modify, or delete a company.
+* A super admin can log in to their space and create other super admins.
+* A super admin can create, modify, or delete a company.
 * Only companies without employees can be deleted.
-* An administrator can invite employees to join a company via email.
-* An administrator can search for a company or employee, or sort the list by name.
-* An administrator can view the status of their invitations or cancel an invitation as long as it has not been confirmed.
-* When an administrator invites an employee, the employee receives an email with a link to validate their profile.
+* A super admin can invite employees to join a company via email.
+* A super admin can search for a company or employee, or sort the list by name.
+* A super admin can view the status of their invitations or cancel an invitation as long as it has not been confirmed.
+* When a super admin invites an employee, the employee receives an email with a link to validate their profile.
 * An employee can only be invited once.
-* The administrator must specify the employee's name and email before sending the invitation.
+* The super admin must specify the employee's name and email before sending the invitation.
 * The employee's email field must be unique.
 
 ## Employee Space:
